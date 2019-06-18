@@ -1,0 +1,7 @@
+[INFO ] 2019-06-10 16:01:47.437 [main] Log4j - this info
+[WARN ] 2019-06-10 16:01:47.439 [main] Log4j - this is warn messge
+[ERROR] 2019-06-10 16:01:47.440 [main] Log4j - this is error messge
+
+[INFO ] 2019-06-11 12:22:18.695 [main] Log4j - this info
+[WARN ] 2019-06-11 12:22:18.697 [main] Log4j - this is warn message
+[ERROR] 2019-06-11 12:22:18.697 [main] Log4j - this is error message
